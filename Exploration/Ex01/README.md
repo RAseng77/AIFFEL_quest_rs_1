@@ -44,7 +44,8 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
     
     네 여러가지 시도와 그것을 통해 스티커앱을 통한 성능 분석을 잘 했습니다.
-< img src="peer_review_image/peer_review_image3.jpg" width="400">
+
+<img src="peer_review_image/peer_review_image3.jpg" width="400">
 
 - [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
